@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<addon id="AlbasoftKodi" 
+  name="[COLOR lime][/COLOR][COLOR lime]A[/COLOR][COLOR lime]lbasoft Kod[/COLOR][COLOR lime]i[/COLOR][COLOR lime] IPTV[/COLOR]"
+  version="[COLOR lime][B] v5.9.1[/B][/COLOR]" 
+  provider-name="[COLOR lime][B]Osmanaj Ahim[/B][/COLOR] [COLOR red][/COLOR]">
+  <requires>
+    <import addon="xbmc.python" version="2.1.0"/>
+  </requires>
+  <extension point="xbmc.python.pluginsource" library="addon.py">
+    <provides>video</provides>
+  </extension>
+  <extension point="xbmc.addon.metadata">
+    <summary>[COLOR red][B]Albasoft Kodi[/B][/COLOR][COLOR red] IPTV[/COLOR]</summary>
+    <description>[COLOR lime][B]Albadroid esht një Addonsë i krijuar nga Ahim Osmanaj per ta shofni IPTV Falas nese keni deshir [/B][/COLOR][COLOR lime][B]     [/B][/COLOR][COLOR lime][B] [/B][/COLOR] 
+[COLOR lime][B][/B][/COLOR][COLOR red][B] [/B][/COLOR][COLOR lime][B] [/B][/COLOR]
+    </description>
+  <disclaimer lang="en">[COLOR lime][B][I]AlbaSoft Sources 
+    web: http://alba.sytes.net
+    email: alba.albasoft@gmail.com [/I][/B][/COLOR]</disclaimer>
+    <platform>all</platform>
+  </extension>
+</addon>
+
